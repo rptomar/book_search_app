@@ -1,0 +1,20 @@
+.navbar{
+  background-color: brown;
+  height: 200px;
+}
+.header{
+  color: white;
+  text-align: center;
+  
+  font-size: 100px;
+}
+.footer{
+  background-color: darkgoldenrod;
+  height: 600px;
+}
+.searchbar{
+  margin-top: 35px;
+  margin-left: 500px;
+  width: 900px;
+  height: 50px;
+}
